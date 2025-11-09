@@ -1,4 +1,4 @@
-SathSafar - Demo Flutter App (Ready)
+SathSafar -Demo Flutter App (Ready)
 ===================================
 
 This is a demo build of the SathSafar Flutter app with OTP demo login (no Firebase).
